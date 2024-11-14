@@ -1,0 +1,411 @@
+from	to	Weight
+Floresta Natural|1985	Floresta Natural|1990	556360.0371
+Floresta Natural|1985	Formação Natural não Florestal|1990	4569.957
+Floresta Natural|1985	Infraestrutura Urbana|1990	161.8731
+Floresta Natural|1985	Pastagem|1990	82169.1036
+Floresta Natural|1985	Agricultura|1990	3550.7916
+Floresta Natural|1985	Mosaico|1990	0
+Floresta Natural|1985	Floresta Plantada|1990	0
+Floresta Natural|1985	Outras Áreas não Vegetadas|1990	188.6634
+Floresta Natural|1985	Corpos Hídricos|1990	5910.9291
+Floresta Natural|1985	Não Observado|1990	0
+Floresta Natural|1990	Floresta Natural|1998	378963.7713
+Floresta Natural|1990	Formação Natural não Florestal|1998	5018.0472
+Floresta Natural|1990	Infraestrutura Urbana|1998	170.8722
+Floresta Natural|1990	Pastagem|1998	159137.667
+Floresta Natural|1990	Agricultura|1998	11054.4201
+Floresta Natural|1990	Mosaico|1998	0
+Floresta Natural|1990	Floresta Plantada|1998	0
+Floresta Natural|1990	Outras Áreas não Vegetadas|1998	259.974
+Floresta Natural|1990	Corpos Hídricos|1998	1755.2853
+Floresta Natural|1990	Não Observado|1998	0
+Formação Natural não Florestal|1990	Floresta Natural|1998	1349.3313
+Formação Natural não Florestal|1990	Formação Natural não Florestal|1998	2413.143
+Formação Natural não Florestal|1990	Infraestrutura Urbana|1998	0
+Formação Natural não Florestal|1990	Pastagem|1998	435.0645
+Formação Natural não Florestal|1990	Agricultura|1998	242.8749
+Formação Natural não Florestal|1990	Mosaico|1998	0
+Formação Natural não Florestal|1990	Floresta Plantada|1998	0
+Formação Natural não Florestal|1990	Outras Áreas não Vegetadas|1998	0
+Formação Natural não Florestal|1990	Corpos Hídricos|1998	129.5433
+Formação Natural não Florestal|1990	Não Observado|1998	0
+Infraestrutura Urbana|1990	Floresta Natural|1998	0
+Infraestrutura Urbana|1990	Formação Natural não Florestal|1998	0
+Infraestrutura Urbana|1990	Infraestrutura Urbana|1998	161.8731
+Infraestrutura Urbana|1990	Pastagem|1998	0
+Infraestrutura Urbana|1990	Agricultura|1998	0
+Infraestrutura Urbana|1990	Mosaico|1998	0
+Infraestrutura Urbana|1990	Floresta Plantada|1998	0
+Infraestrutura Urbana|1990	Outras Áreas não Vegetadas|1998	0
+Infraestrutura Urbana|1990	Corpos Hídricos|1998	0
+Infraestrutura Urbana|1990	Não Observado|1998	0
+Pastagem|1990	Floresta Natural|1998	9333.3834
+Pastagem|1990	Formação Natural não Florestal|1998	117.7479
+Pastagem|1990	Infraestrutura Urbana|1998	81.6381
+Pastagem|1990	Pastagem|1998	71669.655
+Pastagem|1990	Agricultura|1998	919.0251
+Pastagem|1990	Mosaico|1998	0
+Pastagem|1990	Floresta Plantada|1998	0
+Pastagem|1990	Outras Áreas não Vegetadas|1998	0
+Pastagem|1990	Corpos Hídricos|1998	47.6541
+Pastagem|1990	Não Observado|1998	0
+Agricultura|1990	Floresta Natural|1998	47.7585
+Agricultura|1990	Formação Natural não Florestal|1998	25.3935
+Agricultura|1990	Infraestrutura Urbana|1998	0
+Agricultura|1990	Pastagem|1998	696.6711
+Agricultura|1990	Agricultura|1998	2780.9685
+Agricultura|1990	Mosaico|1998	0
+Agricultura|1990	Floresta Plantada|1998	0
+Agricultura|1990	Outras Áreas não Vegetadas|1998	0
+Agricultura|1990	Corpos Hídricos|1998	0
+Agricultura|1990	Não Observado|1998	0
+Mosaico|1990	Floresta Natural|1998	0
+Mosaico|1990	Formação Natural não Florestal|1998	0
+Mosaico|1990	Infraestrutura Urbana|1998	0
+Mosaico|1990	Pastagem|1998	0
+Mosaico|1990	Agricultura|1998	0
+Mosaico|1990	Mosaico|1998	0
+Mosaico|1990	Floresta Plantada|1998	0
+Mosaico|1990	Outras Áreas não Vegetadas|1998	0
+Mosaico|1990	Corpos Hídricos|1998	0
+Mosaico|1990	Não Observado|1998	0
+Floresta Plantada|1990	Floresta Natural|1998	0
+Floresta Plantada|1990	Formação Natural não Florestal|1998	0
+Floresta Plantada|1990	Infraestrutura Urbana|1998	0
+Floresta Plantada|1990	Pastagem|1998	0
+Floresta Plantada|1990	Agricultura|1998	0
+Floresta Plantada|1990	Mosaico|1998	0
+Floresta Plantada|1990	Floresta Plantada|1998	0
+Floresta Plantada|1990	Outras Áreas não Vegetadas|1998	0
+Floresta Plantada|1990	Corpos Hídricos|1998	0
+Floresta Plantada|1990	Não Observado|1998	0
+Outras Áreas não Vegetadas|1990	Floresta Natural|1998	0
+Outras Áreas não Vegetadas|1990	Formação Natural não Florestal|1998	0
+Outras Áreas não Vegetadas|1990	Infraestrutura Urbana|1998	0
+Outras Áreas não Vegetadas|1990	Pastagem|1998	162.9612
+Outras Áreas não Vegetadas|1990	Agricultura|1998	25.7022
+Outras Áreas não Vegetadas|1990	Mosaico|1998	0
+Outras Áreas não Vegetadas|1990	Floresta Plantada|1998	0
+Outras Áreas não Vegetadas|1990	Outras Áreas não Vegetadas|1998	0
+Outras Áreas não Vegetadas|1990	Corpos Hídricos|1998	0
+Outras Áreas não Vegetadas|1990	Não Observado|1998	0
+Corpos Hídricos|1990	Floresta Natural|1998	710.7921
+Corpos Hídricos|1990	Formação Natural não Florestal|1998	141.0237
+Corpos Hídricos|1990	Infraestrutura Urbana|1998	0
+Corpos Hídricos|1990	Pastagem|1998	215.7516
+Corpos Hídricos|1990	Agricultura|1998	0
+Corpos Hídricos|1990	Mosaico|1998	0
+Corpos Hídricos|1990	Floresta Plantada|1998	0
+Corpos Hídricos|1990	Outras Áreas não Vegetadas|1998	0
+Corpos Hídricos|1990	Corpos Hídricos|1998	4843.3617
+Corpos Hídricos|1990	Não Observado|1998	0
+Não Observado|1990	Floresta Natural|1998	0
+Não Observado|1990	Formação Natural não Florestal|1998	0
+Não Observado|1990	Infraestrutura Urbana|1998	0
+Não Observado|1990	Pastagem|1998	0
+Não Observado|1990	Agricultura|1998	0
+Não Observado|1990	Mosaico|1998	0
+Não Observado|1990	Floresta Plantada|1998	0
+Não Observado|1990	Outras Áreas não Vegetadas|1998	0
+Não Observado|1990	Corpos Hídricos|1998	0
+Não Observado|1990	Não Observado|1998	0
+Floresta Natural|1998	Floresta Natural|2003	254628.8667
+Floresta Natural|1998	Formação Natural não Florestal|2003	4353.948
+Floresta Natural|1998	Infraestrutura Urbana|2003	71.406
+Floresta Natural|1998	Pastagem|2003	118138.5207
+Floresta Natural|1998	Agricultura|2003	10081.6686
+Floresta Natural|1998	Mosaico|2003	0
+Floresta Natural|1998	Floresta Plantada|2003	0
+Floresta Natural|1998	Outras Áreas não Vegetadas|2003	625.4073
+Floresta Natural|1998	Corpos Hídricos|2003	2475.18
+Floresta Natural|1998	Não Observado|2003	0
+Formação Natural não Florestal|1998	Floresta Natural|2003	1564.6059
+Formação Natural não Florestal|1998	Formação Natural não Florestal|2003	4562.2845
+Formação Natural não Florestal|1998	Infraestrutura Urbana|2003	0
+Formação Natural não Florestal|1998	Pastagem|2003	755.2368
+Formação Natural não Florestal|1998	Agricultura|2003	570.9555
+Formação Natural não Florestal|1998	Mosaico|2003	0
+Formação Natural não Florestal|1998	Floresta Plantada|2003	0
+Formação Natural não Florestal|1998	Outras Áreas não Vegetadas|2003	0
+Formação Natural não Florestal|1998	Corpos Hídricos|2003	262.2726
+Formação Natural não Florestal|1998	Não Observado|2003	0
+Infraestrutura Urbana|1998	Floresta Natural|2003	0
+Infraestrutura Urbana|1998	Formação Natural não Florestal|2003	0
+Infraestrutura Urbana|1998	Infraestrutura Urbana|2003	414.3834
+Infraestrutura Urbana|1998	Pastagem|2003	0
+Infraestrutura Urbana|1998	Agricultura|2003	0
+Infraestrutura Urbana|1998	Mosaico|2003	0
+Infraestrutura Urbana|1998	Floresta Plantada|2003	0
+Infraestrutura Urbana|1998	Outras Áreas não Vegetadas|2003	0
+Infraestrutura Urbana|1998	Corpos Hídricos|2003	0
+Infraestrutura Urbana|1998	Não Observado|2003	0
+Pastagem|1998	Floresta Natural|2003	12524.6466
+Pastagem|1998	Formação Natural não Florestal|2003	281.5038
+Pastagem|1998	Infraestrutura Urbana|2003	107.2791
+Pastagem|1998	Pastagem|2003	214089.2388
+Pastagem|1998	Agricultura|2003	4978.0053
+Pastagem|1998	Mosaico|2003	0
+Pastagem|1998	Floresta Plantada|2003	0
+Pastagem|1998	Outras Áreas não Vegetadas|2003	25.4367
+Pastagem|1998	Corpos Hídricos|2003	311.6601
+Pastagem|1998	Não Observado|2003	0
+Agricultura|1998	Floresta Natural|2003	74.3517
+Agricultura|1998	Formação Natural não Florestal|2003	47.3049
+Agricultura|1998	Infraestrutura Urbana|2003	0
+Agricultura|1998	Pastagem|2003	1541.7252
+Agricultura|1998	Agricultura|2003	13359.609
+Agricultura|1998	Mosaico|2003	0
+Agricultura|1998	Floresta Plantada|2003	0
+Agricultura|1998	Outras Áreas não Vegetadas|2003	0
+Agricultura|1998	Corpos Hídricos|2003	0
+Agricultura|1998	Não Observado|2003	0
+Mosaico|1998	Floresta Natural|2003	0
+Mosaico|1998	Formação Natural não Florestal|2003	0
+Mosaico|1998	Infraestrutura Urbana|2003	0
+Mosaico|1998	Pastagem|2003	0
+Mosaico|1998	Agricultura|2003	0
+Mosaico|1998	Mosaico|2003	0
+Mosaico|1998	Floresta Plantada|2003	0
+Mosaico|1998	Outras Áreas não Vegetadas|2003	0
+Mosaico|1998	Corpos Hídricos|2003	0
+Mosaico|1998	Não Observado|2003	0
+Floresta Plantada|1998	Floresta Natural|2003	0
+Floresta Plantada|1998	Formação Natural não Florestal|2003	0
+Floresta Plantada|1998	Infraestrutura Urbana|2003	0
+Floresta Plantada|1998	Pastagem|2003	0
+Floresta Plantada|1998	Agricultura|2003	0
+Floresta Plantada|1998	Mosaico|2003	0
+Floresta Plantada|1998	Floresta Plantada|2003	0
+Floresta Plantada|1998	Outras Áreas não Vegetadas|2003	0
+Floresta Plantada|1998	Corpos Hídricos|2003	0
+Floresta Plantada|1998	Não Observado|2003	0
+Outras Áreas não Vegetadas|1998	Floresta Natural|2003	0
+Outras Áreas não Vegetadas|1998	Formação Natural não Florestal|2003	0
+Outras Áreas não Vegetadas|1998	Infraestrutura Urbana|2003	0
+Outras Áreas não Vegetadas|1998	Pastagem|2003	159.0993
+Outras Áreas não Vegetadas|1998	Agricultura|2003	80.0649
+Outras Áreas não Vegetadas|1998	Mosaico|2003	0
+Outras Áreas não Vegetadas|1998	Floresta Plantada|2003	0
+Outras Áreas não Vegetadas|1998	Outras Áreas não Vegetadas|2003	20.8098
+Outras Áreas não Vegetadas|1998	Corpos Hídricos|2003	0
+Outras Áreas não Vegetadas|1998	Não Observado|2003	0
+Corpos Hídricos|1998	Floresta Natural|2003	359.2404
+Corpos Hídricos|1998	Formação Natural não Florestal|2003	62.2305
+Corpos Hídricos|1998	Infraestrutura Urbana|2003	0
+Corpos Hídricos|1998	Pastagem|2003	124.3008
+Corpos Hídricos|1998	Agricultura|2003	0
+Corpos Hídricos|1998	Mosaico|2003	0
+Corpos Hídricos|1998	Floresta Plantada|2003	0
+Corpos Hídricos|1998	Outras Áreas não Vegetadas|2003	0
+Corpos Hídricos|1998	Corpos Hídricos|2003	6230.0727
+Corpos Hídricos|1998	Não Observado|2003	0
+Não Observado|1998	Floresta Natural|2003	0
+Não Observado|1998	Formação Natural não Florestal|2003	0
+Não Observado|1998	Infraestrutura Urbana|2003	0
+Não Observado|1998	Pastagem|2003	0
+Não Observado|1998	Agricultura|2003	0
+Não Observado|1998	Mosaico|2003	0
+Não Observado|1998	Floresta Plantada|2003	0
+Não Observado|1998	Outras Áreas não Vegetadas|2003	0
+Não Observado|1998	Corpos Hídricos|2003	0
+Não Observado|1998	Não Observado|2003	0
+Floresta Natural|2003	Floresta Natural|2010	137009.8845
+Floresta Natural|2003	Formação Natural não Florestal|2010	3513.4641
+Floresta Natural|2003	Infraestrutura Urbana|2010	81.2205
+Floresta Natural|2003	Pastagem|2010	114780.0987
+Floresta Natural|2003	Agricultura|2010	11357.0118
+Floresta Natural|2003	Mosaico|2010	0
+Floresta Natural|2003	Floresta Plantada|2010	0
+Floresta Natural|2003	Outras Áreas não Vegetadas|2010	324.1359
+Floresta Natural|2003	Corpos Hídricos|2010	2012.2866
+Floresta Natural|2003	Não Observado|2010	0
+Formação Natural não Florestal|2003	Floresta Natural|2010	1769.0202
+Formação Natural não Florestal|2003	Formação Natural não Florestal|2010	5413.0086
+Formação Natural não Florestal|2003	Infraestrutura Urbana|2010	0
+Formação Natural não Florestal|2003	Pastagem|2010	950.6709
+Formação Natural não Florestal|2003	Agricultura|2010	916.4142
+Formação Natural não Florestal|2003	Mosaico|2010	0
+Formação Natural não Florestal|2003	Floresta Plantada|2010	0
+Formação Natural não Florestal|2003	Outras Áreas não Vegetadas|2010	0
+Formação Natural não Florestal|2003	Corpos Hídricos|2010	258.1578
+Formação Natural não Florestal|2003	Não Observado|2010	0
+Infraestrutura Urbana|2003	Floresta Natural|2010	0
+Infraestrutura Urbana|2003	Formação Natural não Florestal|2010	0
+Infraestrutura Urbana|2003	Infraestrutura Urbana|2010	593.0685
+Infraestrutura Urbana|2003	Pastagem|2010	0
+Infraestrutura Urbana|2003	Agricultura|2010	0
+Infraestrutura Urbana|2003	Mosaico|2010	0
+Infraestrutura Urbana|2003	Floresta Plantada|2010	0
+Infraestrutura Urbana|2003	Outras Áreas não Vegetadas|2010	0
+Infraestrutura Urbana|2003	Corpos Hídricos|2010	0
+Infraestrutura Urbana|2003	Não Observado|2010	0
+Pastagem|2003	Floresta Natural|2010	14796.6282
+Pastagem|2003	Formação Natural não Florestal|2010	614.2635
+Pastagem|2003	Infraestrutura Urbana|2010	156.9114
+Pastagem|2003	Pastagem|2010	305301.9609
+Pastagem|2003	Agricultura|2010	13487.8014
+Pastagem|2003	Mosaico|2010	0
+Pastagem|2003	Floresta Plantada|2010	0
+Pastagem|2003	Outras Áreas não Vegetadas|2010	0
+Pastagem|2003	Corpos Hídricos|2010	293.5998
+Pastagem|2003	Não Observado|2010	0
+Agricultura|2003	Floresta Natural|2010	128.9493
+Agricultura|2003	Formação Natural não Florestal|2010	41.4324
+Agricultura|2003	Infraestrutura Urbana|2010	0
+Agricultura|2003	Pastagem|2010	1868.2686
+Agricultura|2003	Agricultura|2010	27031.653
+Agricultura|2003	Mosaico|2010	0
+Agricultura|2003	Floresta Plantada|2010	0
+Agricultura|2003	Outras Áreas não Vegetadas|2010	0
+Agricultura|2003	Corpos Hídricos|2010	0
+Agricultura|2003	Não Observado|2010	0
+Mosaico|2003	Floresta Natural|2010	0
+Mosaico|2003	Formação Natural não Florestal|2010	0
+Mosaico|2003	Infraestrutura Urbana|2010	0
+Mosaico|2003	Pastagem|2010	0
+Mosaico|2003	Agricultura|2010	0
+Mosaico|2003	Mosaico|2010	0
+Mosaico|2003	Floresta Plantada|2010	0
+Mosaico|2003	Outras Áreas não Vegetadas|2010	0
+Mosaico|2003	Corpos Hídricos|2010	0
+Mosaico|2003	Não Observado|2010	0
+Floresta Plantada|2003	Floresta Natural|2010	0
+Floresta Plantada|2003	Formação Natural não Florestal|2010	0
+Floresta Plantada|2003	Infraestrutura Urbana|2010	0
+Floresta Plantada|2003	Pastagem|2010	0
+Floresta Plantada|2003	Agricultura|2010	0
+Floresta Plantada|2003	Mosaico|2010	0
+Floresta Plantada|2003	Floresta Plantada|2010	0
+Floresta Plantada|2003	Outras Áreas não Vegetadas|2010	0
+Floresta Plantada|2003	Corpos Hídricos|2010	0
+Floresta Plantada|2003	Não Observado|2010	0
+Outras Áreas não Vegetadas|2003	Floresta Natural|2010	0
+Outras Áreas não Vegetadas|2003	Formação Natural não Florestal|2010	0
+Outras Áreas não Vegetadas|2003	Infraestrutura Urbana|2010	0
+Outras Áreas não Vegetadas|2003	Pastagem|2010	226.9134
+Outras Áreas não Vegetadas|2003	Agricultura|2010	395.2809
+Outras Áreas não Vegetadas|2003	Mosaico|2010	0
+Outras Áreas não Vegetadas|2003	Floresta Plantada|2010	0
+Outras Áreas não Vegetadas|2003	Outras Áreas não Vegetadas|2010	49.4595
+Outras Áreas não Vegetadas|2003	Corpos Hídricos|2010	0
+Outras Áreas não Vegetadas|2003	Não Observado|2010	0
+Corpos Hídricos|2003	Floresta Natural|2010	525.2544
+Corpos Hídricos|2003	Formação Natural não Florestal|2010	81.4824
+Corpos Hídricos|2003	Infraestrutura Urbana|2010	0
+Corpos Hídricos|2003	Pastagem|2010	137.3436
+Corpos Hídricos|2003	Agricultura|2010	0
+Corpos Hídricos|2003	Mosaico|2010	0
+Corpos Hídricos|2003	Floresta Plantada|2010	0
+Corpos Hídricos|2003	Outras Áreas não Vegetadas|2010	0
+Corpos Hídricos|2003	Corpos Hídricos|2010	8535.105
+Corpos Hídricos|2003	Não Observado|2010	0
+Não Observado|2003	Floresta Natural|2010	0
+Não Observado|2003	Formação Natural não Florestal|2010	0
+Não Observado|2003	Infraestrutura Urbana|2010	0
+Não Observado|2003	Pastagem|2010	0
+Não Observado|2003	Agricultura|2010	0
+Não Observado|2003	Mosaico|2010	0
+Não Observado|2003	Floresta Plantada|2010	0
+Não Observado|2003	Outras Áreas não Vegetadas|2010	0
+Não Observado|2003	Corpos Hídricos|2010	0
+Não Observado|2003	Não Observado|2010	0
+Floresta Natural|2010	Floresta Natural|2019	0
+Floresta Natural|2010	Formação Natural não Florestal|2019	8285.4846
+Floresta Natural|2010	Infraestrutura Urbana|2019	103.4856
+Floresta Natural|2010	Pastagem|2019	130102.6545
+Floresta Natural|2010	Agricultura|2019	10893.2688
+Floresta Natural|2010	Mosaico|2019	0
+Floresta Natural|2010	Floresta Plantada|2019	0
+Floresta Natural|2010	Outras Áreas não Vegetadas|2019	429.1119
+Floresta Natural|2010	Corpos Hídricos|2019	4323.8331
+Floresta Natural|2010	Não Observado|2019	0
+Formação Natural não Florestal|2010	Floresta Natural|2019	0
+Formação Natural não Florestal|2010	Formação Natural não Florestal|2019	7346.7522
+Formação Natural não Florestal|2010	Infraestrutura Urbana|2019	0
+Formação Natural não Florestal|2010	Pastagem|2019	1260.5175
+Formação Natural não Florestal|2010	Agricultura|2019	726.1443
+Formação Natural não Florestal|2010	Mosaico|2019	0
+Formação Natural não Florestal|2010	Floresta Plantada|2019	0
+Formação Natural não Florestal|2010	Outras Áreas não Vegetadas|2019	21.4443
+Formação Natural não Florestal|2010	Corpos Hídricos|2019	308.7927
+Formação Natural não Florestal|2010	Não Observado|2019	0
+Infraestrutura Urbana|2010	Floresta Natural|2019	0
+Infraestrutura Urbana|2010	Formação Natural não Florestal|2019	0
+Infraestrutura Urbana|2010	Infraestrutura Urbana|2019	831.2004
+Infraestrutura Urbana|2010	Pastagem|2019	0
+Infraestrutura Urbana|2010	Agricultura|2019	0
+Infraestrutura Urbana|2010	Mosaico|2019	0
+Infraestrutura Urbana|2010	Floresta Plantada|2019	0
+Infraestrutura Urbana|2010	Outras Áreas não Vegetadas|2019	0
+Infraestrutura Urbana|2010	Corpos Hídricos|2019	0
+Infraestrutura Urbana|2010	Não Observado|2019	0
+Pastagem|2010	Floresta Natural|2019	0
+Pastagem|2010	Formação Natural não Florestal|2019	1219.446
+Pastagem|2010	Infraestrutura Urbana|2019	207.9261
+Pastagem|2010	Pastagem|2019	390126.0627
+Pastagem|2010	Agricultura|2019	30475.0602
+Pastagem|2010	Mosaico|2019	0
+Pastagem|2010	Floresta Plantada|2019	0
+Pastagem|2010	Outras Áreas não Vegetadas|2019	216.0945
+Pastagem|2010	Corpos Hídricos|2019	822.9861
+Pastagem|2010	Não Observado|2019	0
+Agricultura|2010	Floresta Natural|2019	0
+Agricultura|2010	Formação Natural não Florestal|2019	21.4605
+Agricultura|2010	Infraestrutura Urbana|2019	0
+Agricultura|2010	Pastagem|2019	2774.3328
+Agricultura|2010	Agricultura|2019	50392.368
+Agricultura|2010	Mosaico|2019	0
+Agricultura|2010	Floresta Plantada|2019	0
+Agricultura|2010	Outras Áreas não Vegetadas|2019	0
+Agricultura|2010	Corpos Hídricos|2019	0
+Agricultura|2010	Não Observado|2019	0
+Mosaico|2010	Floresta Natural|2019	0
+Mosaico|2010	Formação Natural não Florestal|2019	0
+Mosaico|2010	Infraestrutura Urbana|2019	0
+Mosaico|2010	Pastagem|2019	0
+Mosaico|2010	Agricultura|2019	0
+Mosaico|2010	Mosaico|2019	0
+Mosaico|2010	Floresta Plantada|2019	0
+Mosaico|2010	Outras Áreas não Vegetadas|2019	0
+Mosaico|2010	Corpos Hídricos|2019	0
+Mosaico|2010	Não Observado|2019	0
+Floresta Plantada|2010	Floresta Natural|2019	0
+Floresta Plantada|2010	Formação Natural não Florestal|2019	0
+Floresta Plantada|2010	Infraestrutura Urbana|2019	0
+Floresta Plantada|2010	Pastagem|2019	0
+Floresta Plantada|2010	Agricultura|2019	0
+Floresta Plantada|2010	Mosaico|2019	0
+Floresta Plantada|2010	Floresta Plantada|2019	0
+Floresta Plantada|2010	Outras Áreas não Vegetadas|2019	0
+Floresta Plantada|2010	Corpos Hídricos|2019	0
+Floresta Plantada|2010	Não Observado|2019	0
+Outras Áreas não Vegetadas|2010	Floresta Natural|2019	0
+Outras Áreas não Vegetadas|2010	Formação Natural não Florestal|2019	0
+Outras Áreas não Vegetadas|2010	Infraestrutura Urbana|2019	0
+Outras Áreas não Vegetadas|2010	Pastagem|2019	104.256
+Outras Áreas não Vegetadas|2010	Agricultura|2019	142.2288
+Outras Áreas não Vegetadas|2010	Mosaico|2019	0
+Outras Áreas não Vegetadas|2010	Floresta Plantada|2019	0
+Outras Áreas não Vegetadas|2010	Outras Áreas não Vegetadas|2019	127.1106
+Outras Áreas não Vegetadas|2010	Corpos Hídricos|2019	0
+Outras Áreas não Vegetadas|2010	Não Observado|2019	0
+Corpos Hídricos|2010	Floresta Natural|2019	0
+Corpos Hídricos|2010	Formação Natural não Florestal|2019	336.6405
+Corpos Hídricos|2010	Infraestrutura Urbana|2019	0
+Corpos Hídricos|2010	Pastagem|2019	166.3938
+Corpos Hídricos|2010	Agricultura|2019	0
+Corpos Hídricos|2010	Mosaico|2019	0
+Corpos Hídricos|2010	Floresta Plantada|2019	0
+Corpos Hídricos|2010	Outras Áreas não Vegetadas|2019	0
+Corpos Hídricos|2010	Corpos Hídricos|2019	10596.1149
+Corpos Hídricos|2010	Não Observado|2019	0
+Não Observado|2010	Floresta Natural|2019	0
+Não Observado|2010	Formação Natural não Florestal|2019	0
+Não Observado|2010	Infraestrutura Urbana|2019	0
+Não Observado|2010	Pastagem|2019	0
+Não Observado|2010	Agricultura|2019	0
+Não Observado|2010	Mosaico|2019	0
+Não Observado|2010	Floresta Plantada|2019	0
+Não Observado|2010	Outras Áreas não Vegetadas|2019	0
+Não Observado|2010	Corpos Hídricos|2019	0
+Não Observado|2010	Não Observado|2019	0
