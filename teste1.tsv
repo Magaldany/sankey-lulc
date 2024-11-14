@@ -1,0 +1,13 @@
+from	to	Weight
+Floresta Natural|1985	Pastagem|2000	50,00
+Floresta Natural|1985	Agricultura|2000	30,00
+Floresta Natural|1985	Área Urbana|2000	20,00
+Pastagem|2000	Pastagem|2015	15,00
+Pastagem|2000	Agricultura|2015	30,00
+Pastagem|2000	Área Urbana|2015	5,00
+Agricultura|2000	Pastagem|2015	0,00
+Agricultura|2000	Agricultura|2015	30,00
+Agricultura|2000	Área Urbana|2015	0,00
+Área Urbana|2000	Pastagem|2015	0,00
+Área Urbana|2000	Agricultura|2015	0,00
+Área Urbana|2000	Área Urbana|2015	20,00
